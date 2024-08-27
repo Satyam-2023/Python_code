@@ -1,0 +1,7 @@
+#import stdio
+
+# Write 'Hello, World' to standard output.
+#stdio.writeln('Hello, World')
+
+print("Hello World")
+print ("Hello, World")
